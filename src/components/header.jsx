@@ -2,7 +2,7 @@ import { faBell } from "@fortawesome/free-regular-svg-icons";
 import { faBars, faBullhorn, faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-import { logo } from "./logo.svg";
+import logo from "./logo.svg";
 
 const iconClassNames = "text-white h-[25px] w-[25px] ml-[20px] cursor-pointer";
 
